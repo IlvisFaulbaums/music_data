@@ -1,4 +1,8 @@
-q1,do re mi,mi re do
-q2,mi fa sol,sol fa mi
-q3,do mi sol,sol mi do
-q4,do sol do,do re do
+q1,DO,SOL
+q2,RE,FA
+q3,MI,SOL
+q4,DO,MI
+q5,RE,FA
+q6,DO,SOL
+q7,DO,SOL
+q8,DO,MI
